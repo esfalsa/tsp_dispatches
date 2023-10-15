@@ -29,6 +29,9 @@ f_spsf = 'https://thesouthpacific.org/c/spsf/21'
 f_spsf_intro = 'https://thesouthpacific.org/t/about-the-south-pacific-special-forces/57'
 f_citcom = 'https://thesouthpacific.org/t/citizenship-act/4080'
 
+f_signup_assembly = 'https://thesouthpacific.org/new-topic?title=My%20Introduction&body=Hello%21%0A%0AMy%20nation%20is...%0A%0AI%27m%20looking%20forward%20to%20participating%20in%20the%20Assembly%21%0A%0AI%20learned%20about%20the%20South%20Pacific%20from...%0A%0AI%20started%20playing%20NationStates...&category=lampshade-bar&tags=first-post'
+f_signup_roleplay = 'https://thesouthpacific.org/new-topic?title=My%20Introduction&body=Hello%21%0A%0AMy%20nation%20is...%0A%0AI%27m%20looking%20forward%20to%20participating%20in%20roleplay%21%0A%0AI%20learned%20about%20the%20South%20Pacific%20from...%0A%0AI%20started%20playing%20NationStates...&category=lampshade-bar&tags=first-post'
+f_signup_military = 'https://thesouthpacific.org/new-topic?title=My%20Introduction&body=Hello%21%0A%0AMy%20nation%20is...%0A%0AI%27m%20looking%20forward%20to%20participating%20in%the%20military%21%0A%0AI%20learned%20about%20the%20South%20Pacific%20from...%0A%0AI%20started%20playing%20NationStates...&category=lampshade-bar&tags=first-post'
 
 owl_region = 'https://www.nationstates.net/region=the_south_pacific_wa_voting_center'
 owl_intro = 'https://www.nationstates.net/page=dispatch/id=1396505'
