@@ -2,7 +2,7 @@
 delegate = 'lordnwahs'
 pm = 'Utopia'
 mofa = 'Welly'
-mod = 'TBD'
+mod = 'Banexet'
 moc_1 = 'CayonNS'
 moc_2 = 'Flaming'
 moi = 'xshotss'
@@ -47,6 +47,9 @@ discord_handle = 'concrete.slab'
 [people_info.'CayonNS']
 nation = 'Altnavia'
 discord_handle = 'cayonunion6024'
+[people_info.'Banexet']
+nation = 'drew_durrnil'
+discord_handle = 'banexet'
 [people_info.'Heliseum']
 nation = 'Heliseum'
 discord_handle = 'heliseum'
